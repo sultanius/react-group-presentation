@@ -4,6 +4,7 @@ const Anna = () => {
     return (
         <div>
             Anna
+            Hi Timur
         </div>
     );
 };
